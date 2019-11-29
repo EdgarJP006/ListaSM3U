@@ -3,7 +3,6 @@
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 #EXTINF:-1,3ABNLatino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
-https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Logos TV
