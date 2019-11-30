@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://conexionactiva.com/wp-content/uploads/2015/06/nuevo_tiempo.jpg",Nuevo Tiempo
+#EXTINF:-1 tvg-logo="https://files.adventistas.org/noticias/es/2018/02/19155001/17264430_1492784617429961_3420122548947736981_n.png",Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABNLatino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
