@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="http://conexionactiva.com/wp-content/uploads/2015/06/nuevo_tiempo.jpg",Nuevo Tiempo
+#EXTINF:-1 tvg-logo="http://conexionactiva.com/wp-content/uploads/2015/06/nuevo_tiempo.jpg",Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
-#EXTINF:-1,group-title="TV"tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABNLatino
+#EXTINF:-1 group-title="TV"tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABNLatino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
-#EXTINF:-1,group-title="TV"tvg-logo="http://4.bp.blogspot.com/-F5KlFKrfUsU/UK35X1235qI/AAAAAAAADUY/oplUNm3KrAk/s1600/radio-nuevo-tiempo.jpg",Esperanza TV
+#EXTINF:-1 group-title="TV"tvg-logo="http://4.bp.blogspot.com/-F5KlFKrfUsU/UK35X1235qI/AAAAAAAADUY/oplUNm3KrAk/s1600/radio-nuevo-tiempo.jpg",Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,group-title="TV"tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300",Logos TV
+#EXTINF:-1 group-title="TV"tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300",Logos TV
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
 #EXTINF:-1,LLBN Latino
 https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
