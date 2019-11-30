@@ -9,3 +9,13 @@ https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
 #EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-llbn-latino-tv.png",LLBN Latino
 https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg",Red Advenir
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirh
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://mttaborsdachurch.org/hp_wordpress/wp-content/uploads/2013/07/Amazing-Facts-Logo.jpg",Amazing Facts
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWyrdVsdI1mlzM8r9Ma0kFOmQ0jSwytuDtaJGAYjaQ4e8hMhk&s",Hope Channel Intl
+https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
