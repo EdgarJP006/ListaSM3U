@@ -7,7 +7,7 @@ http://disfruta.net:80/live/david1/david1/23470.rtmp
 
 ######################################################################################################################################
 #######################################
-Adventista
+Adventistas
 #######################################
 ######################################################################################################################################
 #EXTINF:-1 tvg-logo="https://files.adventistas.org/noticias/es/2018/02/19155001/17264430_1492784617429961_3420122548947736981_n.png" group-title="00- CANALES ADVENTISTAS",Nuevo Tiempo
@@ -33,8 +33,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-
 
 ######################################################################################################################################
 #######################################
-#EXTINF:-1 tvg-logo="http://es.fordesigner.com/imguploads/Image/cjbc/zcool/png20080526/1211804902.png" group-title="32- INFANTIL LATINO",32- INFANTIL LATINO
-http://antena1.newradio.it/stream?1519462006844
+Infantiles
 #######################################
 ######################################################################################################################################
 
@@ -42,11 +41,11 @@ http://antena1.newradio.it/stream?1519462006844
 http://extremo.dyndns.ws:25461/live/1005/1005/17545.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
-http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?GrupoTopIptv
+http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang
-http://disfruta.net:80/live/david1/david1/49.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4936.ts
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network
 http://extremo.dyndns.ws:25461/live/1005/1005/17546.rtmp
@@ -58,9 +57,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29347.ts
-
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids
-http://disfruta.net:80/live/1981/1981/39.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel
@@ -91,8 +87,7 @@ http://extremo.dyndns.ws:25461/live/1005/1005/17551.rtmp
 
 #######################################################################################################################################################################################
 #######################################
-#EXTINF:-1 tvg-logo="https://site.ccsdlanguages.org/images/category_images/WL-Button-Latin.png" group-title="28- PREMIUM LATINO",28- PREMIUM LATINO
-http://ic7.101.ru:8000/a16
+Peliculas
 #######################################
 #######################################################################################################################################################################################
 
@@ -118,6 +113,10 @@ http://extremo.dyndns.ws:25461/live/1005/1005/2623.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space
 http://mylatinotv.com:25461/live/josh/josh/14432.rtmp
+
+
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)
+http://extremo.dyndns.ws:25461/live/1005/1005/8793.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax
@@ -214,7 +213,7 @@ http://extremo.dyndns.ws:25461/live/1005/1005/16828.rtmp
 ###################################
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs
-http://disfruta.net:80/live/david1/david1/37.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29307.ts
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony
 http://disfruta.net:80/live/david1/david1/17.rtmp
@@ -231,7 +230,7 @@ http://extremo.dyndns.ws:25461/live/randall/randall/14940.rtmp
 http://disfruta.net:80/live/david1/david1/83.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema
-http://disfruta.net:80/live/1981/1981/68.rtmp
+  http://disfruta.net:80/live/1981/1981/68.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics
 http://disfruta.net:80/live/david1/david1/69.rtmp
@@ -264,8 +263,7 @@ http://mylatinotv.com:25461/live/josh/josh/81856.rtmp
 
 ######################################################################################################################################
 #######################################
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2017/06/14/16/59/lion-feline-2402715_960_720.png" group-title="38- DOCUMENTALES LATINOS",38- DOCUMENTALES LATINOS
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+Documentales
 #######################################
 ######################################################################################################################################
 
