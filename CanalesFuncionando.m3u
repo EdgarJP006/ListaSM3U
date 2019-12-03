@@ -152,7 +152,7 @@ http://mylatinotv.com:25461/live/josh/josh/81696.rtmp
 http://extremo.dyndns.ws:25461/live/1005/1005/7252.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family
-ffmpeg -re -i "http://extremo.dyndns.ws:25461/live/1005/1005/7255.rtmp" -hls_time 10 -hls_wrap 7 -hls_list_size 3 -f hls play.m3u8
+http://extremo.dyndns.ws:25461/live/1005/1005/7255.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus
