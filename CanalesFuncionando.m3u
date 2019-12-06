@@ -2,6 +2,18 @@
 #EXTINF:-1 tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/12289733_10153741600428838_8536168085383445505_n.png" group-title="01- VARIEDADES",TVN
 https://player.ooyala.com/hls/player/all/Q1bXhqZjE6TVjF4P9qzGWcluNg-vIuqB.m3u8?targetBitrate=2000&ssl=true&oosm=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ikL5OOf.png" group-title="01- VARIEDADES",NEXtv
+http://198.1.117.5:1935/live/livestream/chunklist.m3u8
+
+#####EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ikL5OOf.png" group-title="01- VARIEDADES",NEXtv
+#####http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="01- VARIEDADES",Sertv
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="01- VARIEDADES",El Gourmet
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58748.m3u8
 ####http://disfruta.net:80/live/david1/david1/23470.rtmp###GOURMET
