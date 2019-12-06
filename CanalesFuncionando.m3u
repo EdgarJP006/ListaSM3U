@@ -3,7 +3,8 @@
 https://player.ooyala.com/hls/player/all/Q1bXhqZjE6TVjF4P9qzGWcluNg-vIuqB.m3u8?targetBitrate=2000&ssl=true&oosm=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="01- VARIEDADES",El Gourmet
-http://disfruta.net:80/live/david1/david1/23470.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58748.m3u8
+####http://disfruta.net:80/live/david1/david1/23470.rtmp###GOURMET
 
 ######################################################################################################################################
 #######################################
@@ -20,7 +21,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
 #EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-llbn-latino-tv.png" group-title="00- CANALES ADVENTISTAS",LLBN Latino
 https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-esperanza-tv.png",Esperanza TV Panamá
+#EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-esperanza-tv.png" group-title="00- CANALES ADVENTISTAS",Esperanza TV Panamá
 http://ph2.ministeriotv.com:1935/1521/1521/chunklist_w403204461.m3u8
 #EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg" group-title="00- CANALES ADVENTISTAS",Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
@@ -64,11 +65,13 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29347
 
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel
-http://extremo.dyndns.ws:25461/live/randall/randall/17547.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58754.m3u8
+####http://extremo.dyndns.ws:25461/live/randall/randall/17547.rtmp###DISNEY CHANNEL
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior
-http://extremo.dyndns.ws:25461/live/1005/1005/17548.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58753.m3u8
+####http://extremo.dyndns.ws:25461/live/1005/1005/17548.rtmp####DISNEY JR
 
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD
@@ -76,18 +79,30 @@ http://extremo.dyndns.ws:25461/live/1005/1005/17549.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids
-http://extremo.dyndns.ws:25461/live/1005/1005/17550.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58701.m3u8
+####http://extremo.dyndns.ws:25461/live/1005/1005/17550.rtmp####NAT GEO KIDS
 
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon
-http://disfruta.net:80/live/david1/david1/46.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58699.m3u8
+####http://disfruta.net:80/live/david1/david1/46.rtmp###
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58698.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",NICK JR
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58697.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/nicktoons.png" group-title="32- INFANTIL LATINO",NickToons
-http://extremo.dyndns.ws:25461/live/1005/1005/17551.rtmp
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58696.m3u8
+####http://extremo.dyndns.ws:25461/live/1005/1005/17551.rtmp####
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",DISCOVERY KIDS
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58759.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+
 
 #######################################################################################################################################################################################
 #######################################
@@ -226,7 +241,8 @@ http://extremo.dyndns.ws:25461/live/randall/randall/2849.rtmp
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel
 http://extremo.dyndns.ws:25461/live/1005/1005/16828.rtmp
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="28- PREMIUM LATINO",SYFY
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58488.m3u8      
 
 ###################################
 
@@ -299,6 +315,8 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58816
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58764.m3u8
 ####http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58764.ts####DISCOVERY CHANNEL
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CULTURA",HyH
+http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58762.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel 
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58718.m3u8
