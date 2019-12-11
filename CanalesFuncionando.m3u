@@ -3,7 +3,7 @@
 </head>
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.newsapp.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="01- VARIEDADES",*ARG_HD:TELEMUNDO
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60492.ts
+http://extremo.dyndns.ws:25461/live/0000/0000/9009.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/12289733_10153741600428838_8536168085383445505_n.png" group-title="01- VARIEDADES",TVN
 https://player.ooyala.com/hls/player/all/Q1bXhqZjE6TVjF4P9qzGWcluNg-vIuqB.m3u8?targetBitrate=2000&ssl=true&oosm=1
@@ -19,8 +19,7 @@ http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="01- VARIEDADES",El Gourmet
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58748.m3u8
-####http://disfruta.net:80/live/david1/david1/23470.rtmp###GOURMET
+http://disfruta.net:80/live/david1/david1/23470.rtmp
 
 ######################################################################################################################################
 #######################################
@@ -57,19 +56,18 @@ Infantiles
 ######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="32- INFANTIL LATINO",Baby TV
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58803.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17545.rtmp####BABY TV
+http://extremo.dyndns.ws:25461/live/1005/1005/17545.rtmp
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/4936.ts
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/34
+
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58772.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17546.rtmp####
+http://extremo.dyndns.ws:25461/live/1005/1005/17546.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
@@ -77,17 +75,15 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
 
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29347.ts
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/38
 
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58754.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/17547.rtmp###DISNEY CHANNEL
+http://extremo.dyndns.ws:25461/live/randall/randall/17547.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58753.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17548.rtmp####DISNEY JR
+http://extremo.dyndns.ws:25461/live/1005/1005/17548.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD -RTMP
@@ -95,28 +91,24 @@ http://extremo.dyndns.ws:25461/live/1005/1005/17549.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58701.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17550.rtmp####NAT GEO KIDS
+http://extremo.dyndns.ws:25461/live/1005/1005/17550.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nickelodeon
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58699.m3u8
-####http://disfruta.net:80/live/david1/david1/46.rtmp###
+http://disfruta.net:80/live/david1/david1/46.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58698.ts
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/93
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",NICK JR
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58697.m3u8
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/92
+
 
 #EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/nicktoons.png" group-title="32- INFANTIL LATINO",NickToons
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58696.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17551.rtmp####
+http://extremo.dyndns.ws:25461/live/1005/1005/17551.rtmp
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",DISCOVERY KIDS
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58759.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",ANIMAX
+TINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
 
@@ -130,24 +122,20 @@ Peliculas
 http://disfruta.net:80/live/david1/david1/75.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58814.m3u8
-######http://extremo.dyndns.ws:25461/live/1005/1005/8711.rtmp####AXN
+##http://extremo.dyndns.ws:25461/live/1005/1005/8711.rtmp
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58771.m3u8
-######http://extremo.dyndns.ws:25461/live/1005/1005/17605.rtmp####CINECANAL
+##http://extremo.dyndns.ws:25461/live/1005/1005/17605.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58738.m3u8
-######http://extremo.dyndns.ws:25461/live/470077/470077/17572.rtmp###FOX
+##http://extremo.dyndns.ws:25461/live/470077/470077/17572.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58720.m3u8
-######http://extremo.dyndns.ws:25461/live/1005/1005/4566.rtmp###GOLDEN PLUS
+##http://extremo.dyndns.ws:25461/live/1005/1005/4566.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58685.m3u8
-######http://extremo.dyndns.ws:25461/live/1005/1005/2623.rtmp####SPACE
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/127
+####http://extremo.dyndns.ws:25461/live/1005/1005/2623.rtmp####
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space -RTMP
@@ -155,8 +143,8 @@ http://mylatinotv.com:25461/live/josh/josh/14432.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",TnT
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58669.m3u8
-######http://extremo.dyndns.ws:25461/live/1005/1005/8793.rtmp###TNT
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/108
+####http://extremo.dyndns.ws:25461/live/1005/1005/8793.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax -RTMP
@@ -169,31 +157,26 @@ http://disfruta.net:80/live/david1/david1/150.rtmp
 http://extremo.dyndns.ws:25461/live/1005/1005/17569.rtmp
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58733.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17571.rtmp####FOX LIFE
+http://extremo.dyndns.ws:25461/live/1005/1005/17571.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29344.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17574.rtmp####FOX MOVIE
+http://extremo.dyndns.ws:25461/live/1005/1005/17574.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58730.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17570.rtmp####FOX SERIES
+http://extremo.dyndns.ws:25461/live/1005/1005/17570.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58668.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/8794.rtmp####TNT SERIES
+http://extremo.dyndns.ws:25461/live/1005/1005/8794.rtmp
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58724.m3u8
-####http://disfruta.net:80/live/david1/david1/20.rtmp####FX
+http://disfruta.net:80/live/david1/david1/20.rtmp
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58723.m3u8
-####http://mylatinotv.com:25461/live/josh/josh/81696.rtmp####FXM
+http://mylatinotv.com:25461/live/josh/josh/81696.rtmp
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo
-http://disfruta.net:80/live/david1/david1/23457.rtmp
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/681
+####http://disfruta.net:80/live/david1/david1/23457.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2
@@ -211,13 +194,11 @@ http://disfruta.net:80/live/david1/david1/112.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58694.m3u8
-####http://disfruta.net:80/live/david1/david1/213.rtmp####PARAMOUNT
+http://disfruta.net:80/live/david1/david1/213.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58629.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17635.rtmp####WARNER
+http://extremo.dyndns.ws:25461/live/1005/1005/17635.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden -RTMP
@@ -230,28 +211,25 @@ http://mylatinotv.com:25461/live/josh/josh/81690.rtmp
 http://extremo.dyndns.ws:25461/live/1005/1005/4565.rtmp
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="28- PREMIUM LATINO",Max
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/10348.ts
+###%%%EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="28- PREMIUM LATINO",Max
 
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Up  -RTMP
 http://extremo.dyndns.ws:25461/live/1005/1005/14941.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="28- PREMIUM LATINO",Max Premier
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60519.m3u8
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/503
 
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58488.m3u8      
-####http://extremo.dyndns.ws:25461/live/123456/123456/3851.rtmp####
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (A)
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/101
+####http://extremo.dyndns.ws:25461/live/123456/123456/3851.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58819.m3u8
-#####http://extremo.dyndns.ws:25461/live/randall/randall/8707.rtmp#####
+#http://extremo.dyndns.ws:25461/live/randall/randall/8707.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58683.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17573.rtmp####
+http://extremo.dyndns.ws:25461/live/1005/1005/17573.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://s3.cine3.com/2014/01/Starz.png" group-title="28- PREMIUM LATINO",Starz -RTMP
@@ -263,11 +241,8 @@ http://extremo.dyndns.ws:25461/live/1005/1005/16828.rtmp
 ###################################
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29307.ts
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58686.m3u8
-####http://disfruta.net:80/live/david1/david1/17.rtmp###
+NF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony
+http://disfruta.net:80/live/david1/david1/17.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier
@@ -275,48 +250,40 @@ http://mylatinotv.com:25461/live/josh/josh/19436.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="28- PREMIUM LATINO",Max Prime
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/60519.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/14940.rtmp####
+http://extremo.dyndns.ws:25461/live/randall/randall/14940.rtmp
 
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat
 http://disfruta.net:80/live/david1/david1/83.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58735.m3u8
-####http://disfruta.net:80/live/1981/1981/68.rtmp####FOX CINEMA
+http://disfruta.net:80/live/1981/1981/68.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58734.m3u8
-#####http://disfruta.net:80/live/david1/david1/69.rtmp#####FOX CLASSIC
+#http://disfruta.net:80/live/david1/david1/69.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58737.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/17568.rtmp#### FOX CINEMA
+http://extremo.dyndns.ws:25461/live/1005/1005/17568.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino
 http://mylatinotv.com:25461/live/josh/josh/73076.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29349.m3u8
-####http://mylatinotv.com:25461/live/josh/josh/103560.rtmp###CINE DINAMITA
+http://mylatinotv.com:25461/live/josh/josh/103560.rtmp
 
 #####%%%EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central
 #####%%%http://disfruta.net:80/live/david1/david1/23.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58765.m3u8
-####http://disfruta.net:80/live/david1/david1/74.rtmp####DINAMITA
+http://disfruta.net:80/live/david1/david1/74.rtmp
 
 #####%%%EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia
 #####%%%http://extremo.dyndns.ws:25461/live/1005/1005/2166.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/10832.ts
+http://mylatinotv.com:25461/live/josh/josh/81827.rtmp
 
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58679.m3u8
-#####http://mylatinotv.com:25461/live/josh/josh/81856.rtmp#####TCM
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (A)
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/103
 
 
 ######################################################################################################################################
@@ -326,69 +293,56 @@ Documentales
 ######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://comcastspotlight.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet 
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58816.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/16394.rtmp####ANIMAL PLANET
+http://extremo.dyndns.ws:25461/live/randall/randall/16394.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel 
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58764.m3u8
-####http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58764.ts####DISCOVERY CHANNEL
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/42
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CULTURA",HyH
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58762.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel 
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58718.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/2178.rtmp####
+TINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History Channel 
+http://extremo.dyndns.ws:25461/live/1005/1005/2178.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo 
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58702.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/14937.rtmp####NAT GEO
+http://extremo.dyndns.ws:25461/live/randall/randall/14937.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58700.ts
-####http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58700.m3u8####NAT GEO WILD
+http://api.nerdtv.xyz:2095/pablo2019/pablo2019/90
+####http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58700.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Familia -RTMP
 http://extremo.dyndns.ws:25461/live/1005/1005/17655.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58761.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/2306.rtmp####ID
+http://extremo.dyndns.ws:25461/live/1005/1005/2306.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58757.m3u8
-#####http://extremo.dyndns.ws:25461/live/randall/randall/3132.rtmp#####
+#http://extremo.dyndns.ws:25461/live/randall/randall/3132.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58755.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/4941.rtmp####
+http://extremo.dyndns.ws:25461/live/1005/1005/4941.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58671.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/4942.rtmp####
+ttp://extremo.dyndns.ws:25461/live/1005/1005/4942.rtmp
 
 
 
 ##############################
 
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58763.m3u8
-####http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58763.ts####
+###%%%EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60431_logo_discovery_civilization.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58758.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/4972.rtmp####
+http://extremo.dyndns.ws:25461/live/randall/randall/4972.rtmp
 
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58756.m3u8
-####http://extremo.dyndns.ws:25461/live/1005/1005/2192.rtmp####
+http://extremo.dyndns.ws:25461/live/1005/1005/2192.rtmp
 
 ######################################################################################################################################
 ####################################### PREMIUM USA
@@ -396,8 +350,7 @@ http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58756
 http://ic7.101.ru:8000/a8
 #######################################
 #EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58757.m3u8
-####http://extremo.dyndns.ws:25461/live/randall/randall/3132.rtmp####
+http://extremo.dyndns.ws:25461/live/randall/randall/3132.rtmp####
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/07/abc-logo__120510210044-200x194.jpg" group-title="26- PREMIUM USA",ABC
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/2326.rtmp
