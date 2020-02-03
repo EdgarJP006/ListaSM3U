@@ -2,8 +2,6 @@
   <meta name="robots" content="noindex">
 </head>
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.newsapp.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="01- VARIEDADES",*ARG_HD:TELEMUNDO
-http://extremo.dyndns.ws:25461/live/0000/0000/9009.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/12289733_10153741600428838_8536168085383445505_n.png" group-title="01- VARIEDADES",TVN
 https://player.ooyala.com/hls/player/all/Q1bXhqZjE6TVjF4P9qzGWcluNg-vIuqB.m3u8?targetBitrate=2000&ssl=true&oosm=1
