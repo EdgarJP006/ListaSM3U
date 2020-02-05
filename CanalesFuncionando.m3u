@@ -51,9 +51,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="21- USA",Nat Geo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="21- USA",CGTN Documentary 
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
@@ -62,6 +59,9 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="21- USA",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8 
+
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="21- USA",Nat Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png"  group-title="21- USA",Kool⁻ˢᵈ⁻
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8?GrupoTopIptv
@@ -83,6 +83,7 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="21- USA",Discovery Turbo 
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
 
 ######################################################################################################################################
 #######################################
