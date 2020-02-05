@@ -50,23 +50,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-
 #######################################Ingles
 #######################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="21- USA",Animal Planet
-http://shacktv.com:8080/live/201918/201918/160.rtmp
 
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"  group-title="21- USA",Discovery Channel
-http://shacktv.com:8080/live/201918/201918/156.rtmp
-
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"  group-title="21- USA",Disney Channel
-http://shacktv.com:8080/live/201918/201918/154.rtmp
-
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="21- USA",Nat Geo
-http://shacktv.com:8080/live/201918/201918/205.rtmp
-
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="21- USA",Nat Geo Wild
-http://shacktv.com:8080/live/201918/201918/87.rtmp
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="21- USA",Boomerang
-http://shacktv.com:8080/live/201918/201918/180.rtmp
 
 ######################################################################################################################################
 #######################################
