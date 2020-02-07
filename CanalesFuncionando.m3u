@@ -3,7 +3,10 @@
 </head>
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="01- VARIEDADES",France 24 en Español⁻ˢᵈ⁻
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="01- VARIEDADES",Telemundo
 http://200.73.59.84:8000/play/a00u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
@@ -84,14 +87,17 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="21- USA",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517OUKvP9kL._SX450_.png" group-title="21- USA",Olympic Channel USA⁻ˢᵈ⁻
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?GrupoTopIptv
+
+
+http://hlsdpi-cdn-fr1.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8
+
 ######################################################################################################################################
 #######################################
 ######################################Infantiles
 #######################################
 ######################################################################################################################################
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang
-http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1458.ts
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
@@ -123,10 +129,11 @@ http://200.73.59.84:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="32- INFANTIL LATINO",ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang
+http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1458.ts
 
 #######################################################################################################################################################################################
 #######################################
