@@ -90,8 +90,8 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/517OUKvP9kL._SX450_.png" group-title="21- USA",Olympic Channel USA⁻ˢᵈ⁻
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?GrupoTopIptv
 
-
-http://hlsdpi-cdn-fr1.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="21- USA",Disney Cinema
+http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
 
 ######################################################################################################################################
 #######################################
