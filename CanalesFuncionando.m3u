@@ -102,29 +102,29 @@ http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
 http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01u
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1372.m3u8
 
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1375.m3u8
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00c
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1377.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01c
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1380.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01h
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1382.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01t
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1384.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01g
+#####*#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick LAT
+#####*#http://200.73.59.84:8000/play/a01g
 
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a03o
+#####*#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior
+#####*#http://200.73.59.84:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
@@ -141,76 +141,75 @@ http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/1458.ts
 #######################################
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03e
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26761.m3u8
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01k
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/26753.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03c
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26743.m3u8
 
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03n
+http://158.69.127.36:25461/live/pete/pete/49507.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox LAT ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01m
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26758.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a017
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26741.m3u8
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01q
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26751.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a015
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26738.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a016
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1471.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx LAT ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03g
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26746.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a012
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26705.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo LAT
-http://200.73.59.84:8000/play/a03b
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1041.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo 2
-http://200.73.59.84:8000/play/a018
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1032.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo Plus
-http://200.73.59.84:8000/play/a019
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/5340.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="28- PREMIUM LATINO",Hbo FAMILY ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01b
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1035.m3u8
 
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01n
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26752.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png" group-title="28- PREMIUM LATINO",Max Prime ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01a
+######*#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png" group-title="28- PREMIUM LATINO",Max Prime ⁽ᵐᵉˣ⁾
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony LAT ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03d
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26747.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a03f
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26759.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a026
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26750.m3u8
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01s
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/26756.m3u8
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt LAT ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01v
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26763.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a01l
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26757.m3u8
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel ⁽ᵐᵉˣ⁾
-http://200.73.59.84:8000/play/a00f
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26764.m3u8
 
 
 
@@ -221,25 +220,25 @@ Documentales
 ######################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00n
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/26749.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00e
+http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1072.m3u8
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00d
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1069.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a023
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1428.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a027
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1081.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo⁽ᵃˡᵗ⁾
 http://200.73.59.84:8000/play/a03p
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History LAT⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a01j
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1075.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc⁽ᵃˡᵗ⁾
-http://200.73.59.84:8000/play/a00p
+http://tv.latintvweb.com:25461/live/Donfelipe/Donfelipe213/1893.m3u8
