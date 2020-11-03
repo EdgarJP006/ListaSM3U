@@ -6,19 +6,8 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="01- VARIEDADES",France 24 en Español⁻ˢᵈ⁻
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="01- VARIEDADES",Telemundo
-http://200.73.59.84:8000/play/a00u
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ikL5OOf.png" group-title="01- VARIEDADES",NEXtv
-http://198.1.117.5:1935/live/livestream/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="01- VARIEDADES",Sertv
-https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
-
 
 ######################################################################################################################################
 #######################################
@@ -29,14 +18,14 @@ https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABNLatino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-F5KlFKrfUsU/UK35X1235qI/AAAAAAAADUY/oplUNm3KrAk/s1600/radio-nuevo-tiempo.jpg" group-title="00- CANALES ADVENTISTAS",Esperanza TV
-https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
+#####EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-F5KlFKrfUsU/UK35X1235qI/AAAAAAAADUY/oplUNm3KrAk/s1600/radio-nuevo-tiempo.jpg" group-title="00- CANALES ADVENTISTAS",Esperanza TV
+
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
 #EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-llbn-latino-tv.png" group-title="00- CANALES ADVENTISTAS",LLBN Latino
 https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-esperanza-tv.png" group-title="00- CANALES ADVENTISTAS",Esperanza TV Panamá
-http://ph2.ministeriotv.com:1935/1521/1521/chunklist_w403204461.m3u8
+#####EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-esperanza-tv.png" group-title="00- CANALES ADVENTISTAS",Esperanza TV Panamá
+
 #EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg" group-title="00- CANALES ADVENTISTAS",Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABN International
