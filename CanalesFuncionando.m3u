@@ -36,6 +36,18 @@ dtv://antenna:43/dvb/10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="01- VARIEDADES",TVN
 dtv://antenna:45/dvb/11
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TVMax.png/revision/latest?cb=20171029093122&path-prefix=es" group-title="01- VARIEDADES",TVMAX HD
+dtv://antenna:47/dvb/12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FETV_PANAMA_2012.jpg" group-title="01- VARIEDADES",FTV
+dtv://antenna:48/dvb/15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTYd-hCcHSL464eowtNR_AB-f_5ZPzOTayjK_hPd6VMtX8HKEE8Y5AoEcOXbmDwA6_1g&usqp=CAU" group-title="01- VARIEDADES",+23 HD
+dtv://antenna:49/dvb/16
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FETV_PANAMA_2012.jpg" group-title="01- VARIEDADES",NEXT HD
+dtv://antenna:49/dvb/17
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
