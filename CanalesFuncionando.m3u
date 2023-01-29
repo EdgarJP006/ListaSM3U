@@ -3,14 +3,42 @@
 </head>
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="01- VARIEDADES",France 24 en Español⁻ˢᵈ⁻
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://pancanal.com/wp-content/uploads/2015/06/logo-tucanalTV-300x272-1.png" group-title="01- VARIEDADES",Tu Canal al Día
+dtv://antenna:26/dvb/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="01- VARIEDADES",Enlace TV
+dtv://antenna:30/dvb/2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/co_enlace-juvenil_m.png" group-title="01- VARIEDADES",TV Color
+dtv://antenna:30/dvb/3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="01- VARIEDADES",TV Color
+dtv://antenna:30/dvb/4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="01- VARIEDADES",Next Sport HD
+dtv://antenna:34/dvb/5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_Viva_Canal_33.png" group-title="01- VARIEDADES",Viva HD
+dtv://antenna:34/dvb/6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw" group-title="01- VARIEDADES",SerTv HD
+dtv://antenna:41/dvb/7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="01- VARIEDADES",Telemetro HD
+dtv://antenna:42/dvb/8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_%282010%29.png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" group-title="01- VARIEDADES",RPC HD
+dtv://antenna:43/dvb/9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_a24bT9HchMj0ooPAT0vjeZZaGBFcdjOf5RtrM6d-GXpTnVqdp0aMVQ5nnPkiSGWtWyU&usqp=CAU" group-title="01- VARIEDADES",OYE
+dtv://antenna:43/dvb/10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="01- VARIEDADES",TVN
+dtv://antenna:45/dvb/11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1180225973175889920/An4jQE_N_400x400.png" group-title="01- VARIEDADES",Tu Canal al Día
-dtv://antenna:26/dvb/1
 
 ######################################################################################################################################
 #######################################
