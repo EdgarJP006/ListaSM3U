@@ -246,6 +246,10 @@ http://45.5.119.155:8000/play/a0gu/index.m3u8
 http://45.5.119.155:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gq.png",Animal Planet HD
 http://45.5.119.155:8000/play/a0gq/index.m3u8
+#EXTINF:0 tvg-id="ext",LOVE NNATURE
+http://177.93.50.42:9000/play/a052/index.m3u8
+#EXTINF:0 tvg-id="zoom" group-title="Channels",Zoom
+http://177.93.50.42:9000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03m.png",CCN
 http://45.5.119.155:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hq.png",CINECANAL HD
@@ -293,7 +297,7 @@ http://45.5.119.155:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0go.png",Studio Universal HD
 http://45.5.119.155:8000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gp.png",SyFy HD
-http://45.5.119.155:8000/play/a0gp/index.m3u8
+http://177.93.50.42:9000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g9.png",TBS
 http://45.5.119.155:8000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jw.png",TCM
