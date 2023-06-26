@@ -58,19 +58,23 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #######################################
 ######################################################################################################################################
 #EXTINF:-1 tvg-logo="https://files.adventistas.org/noticias/es/2018/02/19155001/17264430_1492784617429961_3420122548947736981_n.png" group-title="00- CANALES ADVENTISTAS",Nuevo Tiempo
-http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABNLatino
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
-#####EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-F5KlFKrfUsU/UK35X1235qI/AAAAAAAADUY/oplUNm3KrAk/s1600/radio-nuevo-tiempo.jpg" group-title="00- CANALES ADVENTISTAS",Esperanza TV
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png", Dios Te Ve Kids | HN
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOgxTYjHrvg99Hb62kBaAMSFTHgHSleEwf-C73z=s900-c-k-c0x00ffffff-no-rj", 3ABN Kids | HN
+https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
-#EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-llbn-latino-tv.png" group-title="00- CANALES ADVENTISTAS",LLBN Latino
-https://t01587-lh.akamaihd.net/i/t01587Latino_1@692077/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#####EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-esperanza-tv.png" group-title="00- CANALES ADVENTISTAS",Esperanza TV Panamá
 
+#EXTINF:-1tvg-name="Enlace" tvg-logo="https://i2.paste.pics/028b73983997d13e7c9244a0103850ad.png", Enlace | US
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg" group-title="00- CANALES ADVENTISTAS",Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
+https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/SQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mttaborsdachurch.org/hp_wordpress/wp-content/uploads/2013/07/Amazing-Facts-Logo.jpg" group-title="00- CANALES ADVENTISTAS",Amazing Facts
