@@ -94,6 +94,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-
 http://181.78.4.186:8000/play/a0f1/index.m3u8
 #EXTINF:-1,AXN
 http://181.78.4.186:8000/play/a0ha/index.m3u8
+#EXTINF:-1,AXN HD
+http://186.148.184.163:8000/play/a03n
 #EXTINF:-1,America TV PY
 http://181.78.4.186:8000/play/a0fy/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -182,6 +184,8 @@ http://181.78.4.186:8000/play/a0ef/index.m3u8
 http://181.78.4.186:8000/play/a0eg/index.m3u8
 #EXTINF:-1,History Channel
 http://181.78.4.186:8000/play/a0dm/index.m3u8
+#EXTINF:-1,History Channel HD
+http://186.148.184.163:8000/play/a03j
 #EXTINF:-1,HomeandHealth
 http://181.78.4.186:8000/play/a0fp/index.m3u8
 #EXTINF:-1,I-Sat
@@ -278,3 +282,37 @@ http://181.78.4.186:8000/play/a08e/index.m3u8
 http://181.78.4.186:8000/play/a0dr/index.m3u8
 #EXTINF:-1,Zoom
 http://181.78.4.186:8000/play/a0gh/index.m3u8
+#EXTINF:-1,Paramount HD
+http://186.148.184.163:8000/play/a04e
+#EXTINF:-1,STAR CHANNEL HD
+http://186.148.184.163:8000/play/a04q
+#EXTINF:-1,STAR CHANNEL HD
+http://186.148.184.163:8000/play/a042
+#EXTINF:-1,Sony HD
+http://186.148.184.163:8000/play/a03l
+#EXTINF:-1,Space HD
+http://186.148.184.163:8000/play/a03o
+#EXTINF:-1,Studio Universal HD
+http://186.148.184.163:8000/play/a04f
+#EXTINF:-1,TBS Very Funny HD
+http://186.148.184.163:8000/play/a04r
+#EXTINF:-1,TNT HD
+http://186.148.184.163:8000/play/a03t
+#EXTINF:-1,TNT SERIES
+http://186.148.184.163:8000/play/a055
+#EXTINF:-1,TNT SERIES (clone)
+http://186.148.184.163:8000/play/a058
+#EXTINF:-1,TNT Series HD
+http://186.148.184.163:8000/play/a048
+#EXTINF:-1,Telehit HD
+http://186.148.184.163:8000/play/a04j
+#EXTINF:-1,TyC Sports HD
+http://186.148.184.163:8000/play/a04n
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://186.148.184.163:8000/play/a043
+#EXTINF:-1,Venus
+http://186.148.184.163:8000/play/a056
+#EXTINF:-1,Warner Channel HD
+http://186.148.184.163:8000/play/a03m
+#EXTINF:-1,Win Sports HD
+http://186.148.184.163:8000/play/a03q
