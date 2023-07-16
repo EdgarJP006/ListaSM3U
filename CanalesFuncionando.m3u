@@ -144,16 +144,16 @@ http://181.78.4.186:8000/play/a0eq/index.m3u8
 http://181.78.4.186:8000/play/a0ei/index.m3u8
 #EXTINF:-1,E Entertainment
 http://181.78.4.186:8000/play/a0eu/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.4.186:8000/play/a0ex/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.78.4.186:8000/play/a0el/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://181.78.4.186:8000/play/a0ew/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.78.4.186:8000/play/a0hn/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://186.148.184.163:8000/play/a03p
+#EXTINF:-1,ESPN 3 HD
+http://186.148.184.163:8000/play/a03u
+#EXTINF:-1,ESPN 4 HD
+http://186.148.184.163:8000/play/a045
+#EXTINF:-1,ESPN EXTRA HD
+http://186.148.184.163:8000/play/a04c
+#EXTINF:-1,ESPN HD
+http://186.148.184.163:8000/play/a04k
 #EXTINF:-1,ESPN CO
 http://181.78.4.186:8000/play/a0ge/index.m3u8
 #EXTINF:-1,Easy Listening
