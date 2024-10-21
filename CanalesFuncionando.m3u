@@ -63,32 +63,32 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?Playl
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV
 https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV Estudios
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/logos-tv-estudio-es.png" group-title="00- CANALES ADVENTISTAS",Logos TV Estudios
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV Salud
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/logos-tv-salud-es.png" group-title="00- CANALES ADVENTISTAS",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300", tvg-id="EbenezerTV.hn",group-title="00- CANALES ADVENTISTAS",Ebenezer TV (1080p)
+#EXTINF:-1  tvg-id="EbenezerTV.hn" tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg" group-title="00- CANALES ADVENTISTAS",Red Advenir
 https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="",Extrema TV (720p)
+#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 ###################################### Infantiles
-#EXTINF:-1 tvg-id="3ABNKids.us",tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="00- CANALES ADVENTISTAS", 3ABN Kids
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="00- CANALES ADVENTISTAS", 3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV Kids
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS", Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png", Dios Te Ve Kids | HN
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
 ############# https://www.cxtvenvivo.com/tv-en-vivo/movie-fe -> canal de canales buscar en el codigo m3u8
-#EXTINF:-1 tvg-id="Canal27.hn",group-title="00- CANALES ADVENTISTAS",Canal 27
+#EXTINF:-1 tvg-id="Canal27.hn" group-title="00- CANALES ADVENTISTAS", Canal 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 #EXTINF:-1 tvg-id="MovieFE" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -98,29 +98,29 @@ https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 tvg-id="Televida" tvg-name="Televida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp", Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="InspiracionFe" tvg-name="InspiracionFe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/81aa9ed67e02381d63834784f816b95e.webp", Inspiración y Fe
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
+
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 
 
 
 ###################################### Ingles
-#EXTINF:-1 tvg-id="",tvg-logo="https://alpha.uscreencdn.com/images/categories/207255/big_3abncanada-1920x1080.1717003843.jpg" ,3ABN Canada
+#EXTINF:-1 tvg-id="" tvg-logo="https://alpha.uscreencdn.com/images/categories/207255/big_3abncanada-1920x1080.1717003843.jpg" ,3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="DareToDreamNetwork.us",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzo8leiXFeBQADb29aUyIdMa7O4-4YOjeaQ&s" group-title="00- CANALES ADVENTISTAS", 3ABN Dare To Dream Network
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzo8leiXFeBQADb29aUyIdMa7O4-4YOjeaQ&s" group-title="00- CANALES ADVENTISTAS", 3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNEnglish.us",tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS", 3ABN English
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS", 3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us",tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg?auto=webp&width=350" group-title="00- CANALES ADVENTISTAS", 3ABN French
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg?auto=webp&width=350" group-title="00- CANALES ADVENTISTAS", 3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNInternational.us",tvg-logo="https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F530218%2FInternational-1920x1080.1659537353.jpg" group-title="00- CANALES ADVENTISTAS", 3ABN International
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F530218%2FInternational-1920x1080.1659537353.jpg" group-title="00- CANALES ADVENTISTAS", 3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us",tvg-logo="https://alpha.uscreencdn.com/1110xnull/images/programs/531102/horizontal/big_Praise-Him1480x840.1659537466.jpg?auto=webp" group-title="00- CANALES ADVENTISTAS", 3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://alpha.uscreencdn.com/1110xnull/images/programs/531102/horizontal/big_Praise-Him1480x840.1659537466.jpg?auto=webp" group-title="00- CANALES ADVENTISTAS", 3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us",tvg-logo="https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F527372%2FProclaim-1920x1080.1659535736.jpg" group-title="00- CANALES ADVENTISTAS", 3ABN Proclaim! Network
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-logo="https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F527372%2FProclaim-1920x1080.1659535736.jpg" group-title="00- CANALES ADVENTISTAS", 3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmartLifestyleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CxKWwjx.jpg" group-title="00- CANALES ADVENTISTAS",Lomalinda Smart Lifestyle TV [Offline]
+#EXTINF:-1 tvg-id="SmartLifestyleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CxKWwjx.jpg" group-title="00- CANALES ADVENTISTAS",Lomalinda Smart Lifestyle TV
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us",group-title="00- CANALES ADVENTISTAS", ABN Bible Movies (720p)
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" group-title="00- CANALES ADVENTISTAS", ABN Bible Movies
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-logo="https://mttaborsdachurch.org/hp_wordpress/wp-content/uploads/2013/07/Amazing-Facts-Logo.jpg" group-title="00- CANALES ADVENTISTAS",Amazing Facts
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
@@ -139,74 +139,74 @@ http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 #######################################TV abierta
 #######################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-id="Millenium",group-title="02- CANALES ABIERTOS", Millenium
+#EXTINF:-1 tvg-id="Millenium" group-title="02- CANALES ABIERTOS", Millenium
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="Runtime Español",group-title="02- CANALES ABIERTOS", Runtime Español
+#EXTINF:-1 tvg-id="Runtime Español" group-title="02- CANALES ABIERTOS", Runtime Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 tvg-id="Cine Romántico",group-title="02- CANALES ABIERTOS", Cine Romántico 
+#EXTINF:-1 tvg-id="Cine Romántico" group-title="02- CANALES ABIERTOS", Cine Romántico 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="LasEstrellaS",group-title="02- CANALES ABIERTOS", Las Estrellas 
+#EXTINF:-1 tvg-id="LasEstrellaS" group-title="02- CANALES ABIERTOS", Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
-#EXTINF:-1 tvg-id="Canela TV 2",group-title="02- CANALES ABIERTOS",  Canela TV 2
+#EXTINF:-1 tvg-id="Canela TV 2" group-title="02- CANALES ABIERTOS",  Canela TV 2
 https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
-#EXTINF:-1 tvg-id="Canela TV CINEMA",group-title="02- CANALES ABIERTOS",  Canela CINEMA
+#EXTINF:-1 tvg-id="Canela TV CINEMA" group-title="02- CANALES ABIERTOS",  Canela CINEMA
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
-#EXTINF:-1 tvg-id="Canela CINEMA 2",group-title="02- CANALES ABIERTOS",  Canela CINEMA 2
+#EXTINF:-1 tvg-id="Canela CINEMA 2" group-title="02- CANALES ABIERTOS",  Canela CINEMA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1 tvg-id="RT en Español",group-title="02- CANALES ABIERTOS",  RT en Español
+#EXTINF:-1 tvg-id="RT en Español" group-title="02- CANALES ABIERTOS",  RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="02- CANALES ABIERTOS",TVE Internacional America (1080p)
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="02- CANALES ABIERTOS",TVE Internacional America 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="02- CANALES ABIERTOS",TVE Star HD (1080p)
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="02- CANALES ABIERTOS",TVE Star HD 
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="02- CANALES ABIERTOS",Canal 2 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="02- CANALES ABIERTOS",Canal 2  
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="02- CANALES ABIERTOS",Canal 3 Impresionante (480p)
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="02- CANALES ABIERTOS",Canal 3 Impresionante 
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="02- CANALES ABIERTOS",Canal 4 HD OP1 (1080p)
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="02- CANALES ABIERTOS",Canal 4 HD OP1 
 https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="02- CANALES ABIERTOS",Canal 6 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="02- CANALES ABIERTOS",Canal 6  
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="02- CANALES ABIERTOS",Canal 11 TuTV (349p)
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="02- CANALES ABIERTOS",Canal 11 TuTV 
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="02- CANALES ABIERTOS",Canal 12 (220p)
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="02- CANALES ABIERTOS",Canal 12 
 https://alba-sv-c12-c12.stream.mediatiquestream.com/live2/alba-sv-c12-c12_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="02- CANALES ABIERTOS",Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="02- CANALES ABIERTOS",Megavisión Canal 19 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="02- CANALES ABIERTOS",Megavisión Canal 21 (720p)
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="02- CANALES ABIERTOS",Megavisión Canal 21 
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="02- CANALES ABIERTOS", TVO CANAL 23
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeTV" group-title="02- CANALES ABIERTOS", FreeTv Family
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb543e1e7a6c678f92d43860cef341a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7552db80148b61299bce8c37683f03409a5e5afba358b1ebb00f40d96da8b218559d7a14e69f43c8814aa689d35d965ed070f5409dc7a5de854687809b47936df727364830748f817a8abb3bdcbecb5017b22b592c7454e2b0ddf75d038a46572e9b95aaef3faa79bf8821922e36ab10a75c903f986e951cb5ed3ce0c7c5d7565529b79e142e30b7f2ee8ce93036a970b5a1e6d03c789ce01d7b42da37a048453994ee850197fc0584bf3584b7706f5eaaf514a2b39cd981daea4b983684c3fa8c4f2124025458f637cb9b69c867de77b8de12533f2725fdc022aee1d85a232c5a948c2cb87971bfc98e86cb1875c96f1600a00ab75a017f82357c6cda2fec9438608c547cef413ef4557b8f4ee5b53ce0b4daf1481da7dbc276c93591df63d3f211e76a395710b6805d352a6973c4fc63193577ca48edd6c4f5785378869bccfad31d391729285c0d86e79518f1e8e63b1813f5657c2d1e77169217986dd6043b4244894b86fa587786507629e7a46b5e0e3bc09ee8d181d4c842e37a8bcdaa61776c085155526f570635530f38875a7b5f383bb00e6a42b006283a80f7e7c4e94dea53fe1ec7166d0677cdb0364c0c407a600be1e20024bb60f26fd2abcb52cde28c52668c28ba436df63939ee999fe09f357ca0b8580f6e99d02ec43329c257e42a86d37dd9fa35545854343983f1c0f369249ebabefd09b11957824d4a32d5bdeeb6c46f55e6de7a323d085816459f17460395d5cf6d0c77edf372a80da6a362a04c503c28549eac341ed7b8394cc7754969abf69fd0edd25544832ed565d96c0691520f05e8d877bfd0e5bda9d12f1c2bf1828660f7e18488c7d38a017b08673fd2817c5d65d72bf5c356b2fd532ca1d9c5b59a5d9673e327b2cbe37db372f39dce7bc4faaaf7f57318494917ad91859d3aeffc5b15f52ba10e477ebb85ebf369fea0cc2470f852ed804723ee097753cda4ec178a4c9ce32a21f3887953b6256093f89ec67d70e515f854027c6bd44b86bc0fb99621b0ae499c07/122/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="02- CANALES ABIERTOS",TCS+ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="02- CANALES ABIERTOS",TCS+  
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="02- CANALES ABIERTOS",RTV Canal 57 (720p)
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="02- CANALES ABIERTOS",RTV Canal 57 
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="02- CANALES ABIERTOS",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="02- CANALES ABIERTOS",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="02- CANALES ABIERTOS",DW Español (1080p)
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="02- CANALES ABIERTOS",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="02- CANALES ABIERTOS",Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="02- CANALES ABIERTOS",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="02- CANALES ABIERTOS",Kanal D Drama 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="02- CANALES ABIERTOS",MAX Anime (720p)
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="02- CANALES ABIERTOS",MAX Anime 
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="02- CANALES ABIERTOS",Clan TVE Internacional (1080p)
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="02- CANALES ABIERTOS",Clan TVE Internacional 
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="02- CANALES ABIERTOS",Disney Channel Latin America (480p)
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="02- CANALES ABIERTOS",Disney Channel Latin America 
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="02- CANALES ABIERTOS",EnerGeek (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="02- CANALES ABIERTOS",EnerGeek  
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="02- CANALES ABIERTOS",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="Canela Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.webp" group-title="02- CANALES ABIERTOS", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="Canela  Teens",group-title="02- CANALES ABIERTOS", Canela TV Teens
+#EXTINF:-1 tvg-id="Canela  Teens" group-title="02- CANALES ABIERTOS", Canela TV Teens
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 
 
@@ -218,24 +218,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 
-#EXTINF:-1 tvg-id="TVS Retro",group-title="02- CANALES ABIERTOS",  TVS Retro
+#EXTINF:-1 tvg-id="TVS Retro" group-title="02- CANALES ABIERTOS",  TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="SONYSERIES",group-title="02- CANALES ABIERTOS",  SONY SERIES
+#EXTINF:-1 tvg-id="SONYSERIES" group-title="02- CANALES ABIERTOS",  SONY SERIES
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="SONYSERIES",group-title="02- CANALES ABIERTOS",  SONY Comedias
+#EXTINF:-1 tvg-id="SONYSERIES" group-title="02- CANALES ABIERTOS",  SONY Comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
-#EXTINF:-1 tvg-id="SONYSERIES",group-title="02- CANALES ABIERTOS",  SONY Competencias
+#EXTINF:-1 tvg-id="SONYSERIES" group-title="02- CANALES ABIERTOS",  SONY Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Somos Novelas",group-title="02- CANALES ABIERTOS",  Somos Novelas
+#EXTINF:-1 tvg-id="Somos Novelas" group-title="02- CANALES ABIERTOS",  Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
-#EXTINF:-1 tvg-id="Somos Novelas 2",group-title="02- CANALES ABIERTOS",  Somos Novelas 2
+#EXTINF:-1 tvg-id="Somos Novelas 2" group-title="02- CANALES ABIERTOS",  Somos Novelas 2
 https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8
 ######################################################################################################################################
 #######################################
 #######################################Premium
 #######################################
 ######################################################################################################################################
-#EXTINF:-1 tvg-id="Telemundo",group-title="03- PREMIUM", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" group-title="03- PREMIUM", Telemundo
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1,AMC HD-IK1633-OK
 http://191.52.214.5:8000/play/a02x/index.m3u8
