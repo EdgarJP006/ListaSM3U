@@ -82,7 +82,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 ###################################### Infantiles
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="00- CANALES ADVENTISTAS", 3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS", Logos TV Kids
+#EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://logostv.es/storage/channels/logo-kids.png&il&default=https://logostv.es/storage/channels/logo-kids.png" group-title="00- CANALES ADVENTISTAS", Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-name="Dios Te Ve Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png", Dios Te Ve Kids | HN
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
@@ -94,7 +94,7 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc-alt.m3u8
 
 
 ############# https://www.cxtvenvivo.com/tv-en-vivo/movie-fe -> canal de canales buscar en el codigo m3u8
-#EXTINF:-1 tvg-id="Canal27.hn" group-title="00- CANALES ADVENTISTAS", Canal 27
+#EXTINF:-1 tvg-id="Canal27.hn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Canal27GT2012.png/revision/latest/scale-to-width-down/284?cb=20240826182242&path-prefix=es" group-title="00- CANALES ADVENTISTAS", Canal 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 #EXTINF:-1 tvg-id="MovieFE" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -124,7 +124,7 @@ https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-logo="https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F527372%2FProclaim-1920x1080.1659535736.jpg" group-title="00- CANALES ADVENTISTAS", 3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmartLifestyleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CxKWwjx.jpg" group-title="00- CANALES ADVENTISTAS",Lomalinda Smart Lifestyle TV
+#EXTINF:-1 tvg-id="SmartLifestyleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wixstatic.com/media/a7d43a_52c51776f7ad4cd58b605eb884e5097d~mv2.jpg/v1/fill/w_600,h_196,al_c,lg_1,q_80,enc_auto/Edited%2520Image%25202016-02-26%252019-50-27_e.jpg" group-title="00- CANALES ADVENTISTAS",Lomalinda Smart Lifestyle TV
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKtRRhL1UqJcIv-eKXsBM7PL-8sEQlVLyQ&s" group-title="00- CANALES ADVENTISTAS", ABN Bible Movies
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
